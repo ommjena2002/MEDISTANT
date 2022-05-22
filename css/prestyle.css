@@ -1,0 +1,24 @@
+.btn-primary {
+    color: #fff;
+    background-color: #223a66;
+    border-color: #223a66;
+}
+.btn-primary:hover{
+    background-color: #e12454;
+    border-color: #e12454;
+}
+.btn {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: .5px;
+    padding: 0.75rem 2rem;
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: all .35s ease;
+}
